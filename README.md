@@ -45,4 +45,5 @@ The project consists of the following main components:
 
 ## Authors
 
-- [Your Name]
+- Kazimierz Kiper
+  
